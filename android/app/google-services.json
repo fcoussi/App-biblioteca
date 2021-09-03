@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612281264378",
+    "project_id": "biblioteca-temuco",
+    "storage_bucket": "biblioteca-temuco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612281264378:android:42e7ae0c5f3f4c6c024143",
+        "android_client_info": {
+          "package_name": "com.example.biblioteca_temuco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612281264378-pr4biahuug6bd4k6pa2hurj27427vs3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sTdzCsdOiepGHxU5J047IQNzYXwl4P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612281264378-pr4biahuug6bd4k6pa2hurj27427vs3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

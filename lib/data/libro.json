@@ -1,0 +1,200 @@
+{
+    "Novela" : [
+      {
+          "titulo" : "Inferno",
+          "Autor" : "Dan Brown",
+          "Descripcion":"Inferno es un libro escrito por Dan Brown, el cual está lleno de misterio e incertidumbre, donde se quiere evitar la extinción humana que depende de la eliminación de un virus. El tema central de este libro es la superpoblación, y de cómo la especie humana puede ser eliminada por un virus misterioso.",
+          "ImagenUri": "https://images.cdn3.buscalibre.com/fit-in/360x360/80/14/80147db18c42b8d62283ebe0e60c550f.jpg"
+      },
+      {
+        "titulo" : "El ojo del alma",
+        "Autor" : "Ramón Díaz Eterovic",
+        "Descripcion":"En esta novela Ramón Díaz Eterovic, con su proverbial estilo, nos recrea una nueva historia de Heredia, su detective privado que al investigar la misteriosa desaparición de uno de los amigos de universidad y de quien se piensa pudo ser un informante de los organismos de seguridad de la dictadura de Pinochet, se sumerge en los recuerdos y le permiten explorar en los fragmentos y fisuras de una sociedad oscura que ha extraviado muchos de sus valores. ",
+        "ImagenUri": "https://www.antartica.cl/media/catalog/product/9/7/9789562823814_1.png?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg"
+    },
+    {
+        "titulo" : "Aníbal nubes de guerra",
+        "Autor" : "Ben Kane",
+        "Descripcion":"Tercera entrega, Año 213 A.C., Siracusa. Bajo el sol abrasador de Sicilia, la ciudad está en guerra. Apostados ante sus murallas, un enorme ejército romano aguarda. Pero las impresionantes defensas de la ciudad, diseñadas por Arquímedes, les dicen que Siracusa no será tomada con facilidad",
+        "ImagenUri": "https://images.cdn1.buscalibre.com/fit-in/360x360/97/7e/977ed1da15805c23f7ce72c73aa2774c.jpg"
+    },
+    {
+        "titulo" : "La vida de los elfos",
+        "Autor" : "Muriel Barbery",
+        "Descripcion":"Qué tienen en común la pequeña María, que vive en un pueblo recóndito de la Borgoña, y Clara, otra niña que, en la misma época, después de haber crecido en los Abruzos, es enviada a Roma para desarrollar su don prodigioso por la música? Muy poco, en apariencia. Sin embargo, entre ellas existe un lazo secreto: cada una, por medios muy diferentes, está en contacto con el mundo de los elfos, un mundo de arte, invención y misterio, y también de fusión con la naturaleza, que proporciona a la vida de los hombres su profundidad y belleza. Una gran amenaza, procedente de un elfo descarriado, pesa sobre la especie humana, y sólo María y Clara son capaces, a través de sus dones conjugados, de desbaratar sus planes",
+        "ImagenUri": "https://pladlibroscl2.cdnstatics.com/usuaris/libros/fotos/202/m_libros/201929_portada_la-vida-de-los-elfos_muriel-barbery_201505291008.jpg"
+    },
+    {
+        "titulo" : "El rincón de Caín",
+        "Autor" : "Anne Lou'se Deval",
+        "Descripcion":"Esta novela representa una síntesis genial de lo que diariamente transmiten los medios de comunicación: el mal en sus múltiples sutilezas y expresiones individuales y colectivas, siempre impregnadas de un sabor a misterio. Tal misterio de la impiedad, que evoca Pablo en 2 Ts 2, 7, es abordado por una autora, versada y sensible a los problemas de la sociedad. Lo que resulta verdaderamente asombroso es cómo la articulación magistral de la propia idiosincrasia proyecta una universalidad no sólo transcultural, que hace recordar El Idiota de Dostoievski, sino también transtemporal, en cuanto se asemeja a La ciudad de Caín, analizada por Agustín en el De Civitate Dei XV 1-8. Si bien la novela podrá ser estudiada desde muchos ángulos, el presente análisis se detiene sólo en los presupuestos antropológico-teológicos que la articulan.",
+        "ImagenUri": "https://booklife.cl/wp-content/uploads/2015/07/el_rincon_de_cain.jpg"
+    },
+    {
+        "titulo" : "El grito de la tierra",
+        "Autor" : "Sarah Lark",
+        "Descripcion":" Llega la esperada tercera parte de la serie que Sarah Lark comenzó con El país de la nube blanca, a la que siguió La canción de los maoríes. Nueva Zelanda, 1907. La infancia de Gloria termina abruptamente cuando es enviada junto con su prima Lilian a un colegio en Gran Bretaña. Si bien Lilian encaja en las costumbres que impone el Viejo Mundo, Gloria quiere volver a toda costa a la tierra que la vio nacer, para lo cual ideará un atrevido plan. El profundo sentimiento que la empuja a regresar marcará su destino y convertirá finalmente a Gloria en una mujer más fuerte.",
+        "ImagenUri": "https://images.cdn1.buscalibre.com/fit-in/360x360/57/4f/574f8bb87df4113cfd9e33ce7c61b8f6.jpg"
+    }
+    ],
+    "Historia" : [
+        {
+            "titulo" : "Un Veterano de tres guerras ",
+            "Autor" : "Guillermo Parvex",
+            "Descripcion":"En un ameno y coloquial lenguaje, el abogado y oficial de ejercito José Miguel Varela, nos relata sus experiencias en la Guerra del Pacifico, Campañas de la Araucanía y Guerra Civil de 1891. Sus páginas entregan una combinación de impresionantes descripciones de cruentos combates, con relatos que muestran que la guerra también deja espacios para actos de nobleza y humanidad, intercalados con detallados datos históricos que permiten situarse en la época y el lugar en que transcurren los hechos. ",
+            "ImagenUri": "https://images.cdn2.buscalibre.com/fit-in/360x360/2b/5c/2b5cbabc8398d70bd56c50b124c6d1e2.jpg"
+        },
+        {
+          "titulo" : "Servicio secreto chileno",
+          "Autor" : "Guillermo Parvex",
+          "Descripcion":"En 1873, mientras crecía la tensión entre Chile y sus países vecinos, el gobierno de la época formó una red de colaboradores que recopiló información para el Estado ante la inminencia de la guerra contra Perú y Bolivia. Había chilenos y extranjeros, militares y civiles, hombres de letras, ingenieros, mujeres. Se les llamó prácticos, gente de confianza, personas dignas de fe, comisionados. Se estima que hubo entre setenta a cien agentes y, en los años que siguieron, una cifra similar en Centroamérica, Estados Unidos y Europa.",
+          "ImagenUri": "https://images.cdn3.buscalibre.com/fit-in/360x360/51/ef/51efea6b97f2930e8dd60afb5d159632.jpg"
+      },
+      {
+          "titulo" : "Santa María de Iquique",
+          "Autor" : "Carlos Tromben",
+          "Descripcion":"Las iglesias estaban malditas, los cementerios no daban abasto, el terror era la ley. La muerte permaneció días y semanas en Iquique como un olor, un manto invisible, algo de lo que no se podía hablar. Durante años los habitantes recordarían en privado aquel maldito 1907 en que llovió a cántaros, hubo un eclipse y miles de personas fueron ametralladas por las fuerzas armadas. La masacre en la escuela Santa María de Iquique fue el final de un año trágico. La escuela se convirtió en el refugio fatal para los obreros de las oficinas salitreras que ese año se levantaron en huelga para defender sus derechos. ",
+          "ImagenUri": "https://contrapunto.cl/12879/santamariadeiquique.jpg"
+      },
+      {
+          "titulo" : "Manual de historia de chile",
+          "Autor" : "Francisco Frías Valenzuela",
+          "Descripcion":"Obra considerada un modelo de exposicion didactica, por lo que resulta muy comoda para estudiantes y profesores. Su gran numero de ilustraciones enriquecen y complementan lo tratado; su formato y diseño grafico facilitan el estudio y la consulta. Incluye los periodos de Allende, Junta Militar, Aylwin, hasta la eleccion de Frei Ruiz-Tagle. ",
+          "ImagenUri": "https://cdnx.jumpseller.com/que-leo-temuco/image/10700045/resize/540/540?1595479469"
+      },
+      {
+          "titulo" : "La historia fue otra",
+          "Autor" : "Carmen Hertz",
+          "Descripcion":"La historia fue otra recuerda ese otro relato que se dejó en las sombras, el de los miles de chilenos que lucharon contra la dictadura con las armas que tenían a su alcance: la inteligencia, el profesionalismo, la obstinación y hasta el heroísmo de tantos que dieron su vida por la recuperación de la democracia. Tras la muerte de su marido Carlos Berger, asesinado salvajemente por la Caravana de la Muerte en 1973, Carmen Hertz inició una resistencia de décadas por esclarecer los hechos y exigir verdad y justicia en un país primero bajo una dictadura brutal, y luego bajo una democracia en la que quedó instalado el miedo y la justicia en la medida de lo posible",
+          "ImagenUri": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488903671l/34383266._SY475_.jpg"
+      }
+      ],
+      "Ciencia" : [
+        {
+            "titulo" : "Somos polvo de estrellas",
+            "Autor" : "José Maza",
+            "Descripcion":"En un ameno y coloquial lenguaje, el abogado y oficial de ejercito José Miguel Varela, nos relata sus experiencias en la Guerra del Pacifico, Campañas de la Araucanía y Guerra Civil de 1891. Sus páginas entregan una combinación de impresionantes descripciones de cruentos combates, con relatos que muestran que la guerra también deja espacios para actos de nobleza y humanidad, intercalados con detallados datos históricos que permiten situarse en la época y el lugar en que transcurren los hechos. ",
+            "ImagenUri": "https://images.cdn1.buscalibre.com/fit-in/360x360/7d/c2/7dc29db13eb455d5c45f69ef979e863a.jpg"
+        },
+        {
+          "titulo" : "Física conceptos y aplicaciones",
+          "Autor" : "Paul E.Tippens",
+          "Descripcion":"En 1873, mientras crecía la tensión entre Chile y sus países vecinos, el gobierno de la época formó una red de colaboradores que recopiló información para el Estado ante la inminencia de la guerra contra Perú y Bolivia. Había chilenos y extranjeros, militares y civiles, hombres de letras, ingenieros, mujeres. Se les llamó prácticos, gente de confianza, personas dignas de fe, comisionados. Se estima que hubo entre setenta a cien agentes y, en los años que siguieron, una cifra similar en Centroamérica, Estados Unidos y Europa.",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/51Nsb-bHT%2BL._SX218_BO1,204,203,200_QL40_ML2_.jpg"
+      },
+      {
+          "titulo" : "Fundamentos de química",
+          "Autor" : "Carlos Tromben",
+          "Descripcion":"Las iglesias estaban malditas, los cementerios no daban abasto, el terror era la ley. La muerte permaneció días y semanas en Iquique como un olor, un manto invisible, algo de lo que no se podía hablar. Durante años los habitantes recordarían en privado aquel maldito 1907 en que llovió a cántaros, hubo un eclipse y miles de personas fueron ametralladas por las fuerzas armadas. La masacre en la escuela Santa María de Iquique fue el final de un año trágico. La escuela se convirtió en el refugio fatal para los obreros de las oficinas salitreras que ese año se levantaron en huelga para defender sus derechos. ",
+          "ImagenUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgGWh3dIdZQEijqV3PLMtWF22h-CwAiGrSisZPArUMsLpx00oNNDZQlB9pYUPwU-rIic&usqp=CAU "
+      },
+      {
+          "titulo" : "Biología",
+          "Autor" : "Francisco Frías Valenzuela",
+          "Descripcion":"Obra considerada un modelo de exposicion didactica, por lo que resulta muy comoda para estudiantes y profesores. Su gran numero de ilustraciones enriquecen y complementan lo tratado; su formato y diseño grafico facilitan el estudio y la consulta. Incluye los periodos de Allende, Junta Militar, Aylwin, hasta la eleccion de Frei Ruiz-Tagle. ",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/41UU6V2gsdL._SX258_BO1,204,203,200_.jpg"
+      },
+      {
+          "titulo" : "Recursos Naturales",
+          "Autor" : "Carmen Hertz",
+          "Descripcion":"La historia fue otra recuerda ese otro relato que se dejó en las sombras, el de los miles de chilenos que lucharon contra la dictadura con las armas que tenían a su alcance: la inteligencia, el profesionalismo, la obstinación y hasta el heroísmo de tantos que dieron su vida por la recuperación de la democracia. Tras la muerte de su marido Carlos Berger, asesinado salvajemente por la Caravana de la Muerte en 1973, Carmen Hertz inició una resistencia de décadas por esclarecer los hechos y exigir verdad y justicia en un país primero bajo una dictadura brutal, y luego bajo una democracia en la que quedó instalado el miedo y la justicia en la medida de lo posible",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/61bcFeGMMwL._SX258_BO1,204,203,200_.jpg"
+      }
+      ],
+      "Comics" : [
+        {
+            "titulo" : "Condorito de oro N° 47 ",
+            "Autor" : "Pepo",
+            "Descripcion":" ",
+            "ImagenUri": "https://1.bp.blogspot.com/-ykhkXxVJnAk/Xt-p0Mmg9CI/AAAAAAAB-Ss/WKh-_nViGSUJ7zCcGayKY9SvYH6EWiAVACLcBGAsYHQ/s1600/02B-2.jpg"
+        },
+        {
+          "titulo" : "Asterix y Obelix y compañia",
+          "Autor" : "Goscinny",
+          "Descripcion":" ",
+          "ImagenUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKzWj9z1KCQwCPw7h5SLZSgwjpy30tHKZMP7EhoQU6lNK3cO3vPxwBobAMK_RGL-fuvo&usqp=CAU"
+      },
+      {
+          "titulo" : "Ogu y Mampato: Kilikilis y golagolas",
+          "Autor" : "Themo Lobos",
+          "Descripcion":" ",
+          "ImagenUri": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297068100l/10405756.jpg"
+      },
+      {
+          "titulo" : "Avengers: Era de Ultrón",
+          "Autor" : "Stan Lee",
+          "Descripcion":" ",
+          "ImagenUri": "https://www.milcomics.com/fotos/los-vengadores-la-era-de-ultron-02-48202-1.png"
+      },
+      {
+          "titulo" : "Caupolicán",
+          "Autor" : "Castro Salinas",
+          "Descripcion":" ",
+          "ImagenUri": "https://guardianesdelsur.cl/wp-content/uploads/2019/07/PORTADA-OK-CAUPOLICAN.png"
+      }
+      ],
+      "Revistas" : [
+        {
+            "titulo" : "Matías Catrileo ",
+            "Autor" : "Fernando Pairican Padilla",
+            "Descripcion":"En un ameno y coloquial lenguaje, el abogado y oficial de ejercito José Miguel Varela, nos relata sus experiencias en la Guerra del Pacifico, Campañas de la Araucanía y Guerra Civil de 1891. Sus páginas entregan una combinación de impresionantes descripciones de cruentos combates, con relatos que muestran que la guerra también deja espacios para actos de nobleza y humanidad, intercalados con detallados datos históricos que permiten situarse en la época y el lugar en que transcurren los hechos. ",
+            "ImagenUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7RzJ2MoxGNHzzeSSiL-b4GdI2Pq19G_g2jvYGGIrNXTJ9koGmyGPTSfzKLy97gcmsfrI&usqp=CAU"
+        },
+        {
+          "titulo" : "Viviendo mi vida part II",
+          "Autor" : "Emma Goldman",
+          "Descripcion":"En 1873, mientras crecía la tensión entre Chile y sus países vecinos, el gobierno de la época formó una red de colaboradores que recopiló información para el Estado ante la inminencia de la guerra contra Perú y Bolivia. Había chilenos y extranjeros, militares y civiles, hombres de letras, ingenieros, mujeres. Se les llamó prácticos, gente de confianza, personas dignas de fe, comisionados. Se estima que hubo entre setenta a cien agentes y, en los años que siguieron, una cifra similar en Centroamérica, Estados Unidos y Europa.",
+          "ImagenUri": "https://capitanswing.com/wp-content/uploads/EmmaGoldman_ViviendoMiVidaVol2.jpg"
+      },
+      {
+          "titulo" : "Una biografía intima",
+          "Autor" : "David Evans",
+          "Descripcion":"Las iglesias estaban malditas, los cementerios no daban abasto, el terror era la ley. La muerte permaneció días y semanas en Iquique como un olor, un manto invisible, algo de lo que no se podía hablar. Durante años los habitantes recordarían en privado aquel maldito 1907 en que llovió a cántaros, hubo un eclipse y miles de personas fueron ametralladas por las fuerzas armadas. La masacre en la escuela Santa María de Iquique fue el final de un año trágico. La escuela se convirtió en el refugio fatal para los obreros de las oficinas salitreras que ese año se levantaron en huelga para defender sus derechos. ",
+          "ImagenUri": "https://m.media-amazon.com/images/I/41T2-J6il-L.jpg"
+      },
+      {
+          "titulo" : "Jhon Lennon",
+          "Autor" : "Philip Norman",
+          "Descripcion":"Obra considerada un modelo de exposicion didactica, por lo que resulta muy comoda para estudiantes y profesores. Su gran numero de ilustraciones enriquecen y complementan lo tratado; su formato y diseño grafico facilitan el estudio y la consulta. Incluye los periodos de Allende, Junta Militar, Aylwin, hasta la eleccion de Frei Ruiz-Tagle. ",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/41wXWjq+ryL._SX341_BO1,204,203,200_.jpg"
+      },
+      {
+          "titulo" : "Tesla",
+          "Autor" : "Richard Dr. Gunderman",
+          "Descripcion":"La historia fue otra recuerda ese otro relato que se dejó en las sombras, el de los miles de chilenos que lucharon contra la dictadura con las armas que tenían a su alcance: la inteligencia, el profesionalismo, la obstinación y hasta el heroísmo de tantos que dieron su vida por la recuperación de la democracia. Tras la muerte de su marido Carlos Berger, asesinado salvajemente por la Caravana de la Muerte en 1973, Carmen Hertz inició una resistencia de décadas por esclarecer los hechos y exigir verdad y justicia en un país primero bajo una dictadura brutal, y luego bajo una democracia en la que quedó instalado el miedo y la justicia en la medida de lo posible",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/511v5JvVAFL._SX389_BO1,204,203,200_.jpg"
+      }
+      ],
+      "Deporte" : [
+        {
+            "titulo" : "Aprende a jugar futból ",
+            "Autor" : "María Jesús García Gonzáles",
+            "Descripcion":"En un ameno y coloquial lenguaje, el abogado y oficial de ejercito José Miguel Varela, nos relata sus experiencias en la Guerra del Pacifico, Campañas de la Araucanía y Guerra Civil de 1891. Sus páginas entregan una combinación de impresionantes descripciones de cruentos combates, con relatos que muestran que la guerra también deja espacios para actos de nobleza y humanidad, intercalados con detallados datos históricos que permiten situarse en la época y el lugar en que transcurren los hechos. ",
+            "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/81daG-UzC2L.jpg"
+        },
+        {
+          "titulo" : "Baloncesto Destrezas y ejercicios",
+          "Autor" : "Mike Krzyzewsky",
+          "Descripcion":"En 1873, mientras crecía la tensión entre Chile y sus países vecinos, el gobierno de la época formó una red de colaboradores que recopiló información para el Estado ante la inminencia de la guerra contra Perú y Bolivia. Había chilenos y extranjeros, militares y civiles, hombres de letras, ingenieros, mujeres. Se les llamó prácticos, gente de confianza, personas dignas de fe, comisionados. Se estima que hubo entre setenta a cien agentes y, en los años que siguieron, una cifra similar en Centroamérica, Estados Unidos y Europa.",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/516RZD77tYL._SX258_BO1,204,203,200_.jpg"
+      },
+      {
+          "titulo" : "El libro negro del tenis",
+          "Autor" : "Profesor C",
+          "Descripcion":"Las iglesias estaban malditas, los cementerios no daban abasto, el terror era la ley. La muerte permaneció días y semanas en Iquique como un olor, un manto invisible, algo de lo que no se podía hablar. Durante años los habitantes recordarían en privado aquel maldito 1907 en que llovió a cántaros, hubo un eclipse y miles de personas fueron ametralladas por las fuerzas armadas. La masacre en la escuela Santa María de Iquique fue el final de un año trágico. La escuela se convirtió en el refugio fatal para los obreros de las oficinas salitreras que ese año se levantaron en huelga para defender sus derechos. ",
+          "ImagenUri": "https://m.media-amazon.com/images/I/51J2lE3HZgL.jpg"
+      },
+      {
+          "titulo" : "Extreme Parkour",
+          "Autor" : "Virginia Loh-hagan",
+          "Descripcion":"Obra considerada un modelo de exposicion didactica, por lo que resulta muy comoda para estudiantes y profesores. Su gran numero de ilustraciones enriquecen y complementan lo tratado; su formato y diseño grafico facilitan el estudio y la consulta. Incluye los periodos de Allende, Junta Militar, Aylwin, hasta la eleccion de Frei Ruiz-Tagle. ",
+          "ImagenUri": "https://images-na.ssl-images-amazon.com/images/I/51n-evw8S7L._AC._SR360,460.jpg"
+      },
+      {
+          "titulo" : "Guía práctica del motocross",
+          "Autor" : "Dani Hernández",
+          "Descripcion":"La historia fue otra recuerda ese otro relato que se dejó en las sombras, el de los miles de chilenos que lucharon contra la dictadura con las armas que tenían a su alcance: la inteligencia, el profesionalismo, la obstinación y hasta el heroísmo de tantos que dieron su vida por la recuperación de la democracia. Tras la muerte de su marido Carlos Berger, asesinado salvajemente por la Caravana de la Muerte en 1973, Carmen Hertz inició una resistencia de décadas por esclarecer los hechos y exigir verdad y justicia en un país primero bajo una dictadura brutal, y luego bajo una democracia en la que quedó instalado el miedo y la justicia en la medida de lo posible",
+          "ImagenUri": "https://m.media-amazon.com/images/I/41X1F1o4MIL.jpg"
+      }
+      ]
+  } 
